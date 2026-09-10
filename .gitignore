@@ -1,0 +1,5 @@
+﻿bin/
+obj/
+Resources/*.lic
+Resources/contract-sanitized.pdf
+Resources/contract-authors-removed.pdf
